@@ -1,7 +1,7 @@
 # Hello, world! 👋
 É um prazer ter você aqui, obrigado por tirar um tempinho do seu dia para dar uma olhada no meu perfil, fique a vontade.
 
-## Estou estudando ou trabalhando com
+## No momento estou estudando ou trabalhando com:
 ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=yellow)
 ![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=orange)
 ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=blue)
