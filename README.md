@@ -7,8 +7,9 @@ Tendo esse problema a resolver, procurei por soluções de algum app ou aplicaç
 
 E foi assim que mergulhei nesse oceano da programação.
 
+## ⭐ Estatísticas Gerais
 <div>
-  <a href="https://github.com/grtlucas">
+  <a href="https://github.com/glrtlucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glrtlucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glrtlucas&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -27,7 +28,7 @@ E foi assim que mergulhei nesse oceano da programação.
 <br />
 <br />
   
-## 🔍 Você pode me encontrar por aí...
+## 🔍 A gente se vê por aí, obrigado pela visita. Até mais...
   <a href="https://instagram.com/glrtlucas.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Lucas Goulart#1678" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:goulartlcs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
