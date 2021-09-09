@@ -1,12 +1,5 @@
 ## 👋 Fala mestre, aqui é o Lucas Goulart. Tudo certo?
-Minha jornada como desenvolvedor começou porque enquanto eu era motoboy, eu precisava de alguma solução para registrar as corridas que fazia para meus clientes particulares e encontrei aplicações que entregavam até mais do que eu precisava e o custo delas não era viável, e também encontrei soluções gratuitas que não me atendiam. Foi aí que tive a necessidade de criar algo personalizado para mim.
 
-Em alguns meses estudando javascript, consegui desenvolver um <a href="https://glrtlucas.github.io/titanium_express/" target="_blank">formulário</a> bem simples que captura os dados que eram importantes para mim e o principal, o endereço de coleta e entrega do pacote. Para fazer o cálculo da distância entre os dois endereços usei a API do Here We Go Maps, com a distância em mãos é aplicado o preço com base na minha regra de negócio e ao salvar esse formulários os dados são enviados para uma planilha no Google Planilhas, utilizei ele como banco de dados porque até então eu não sabia como usar um.
-
-Foi assim que me joguei de vez na programação, a tecnologia me ajudou muito através dos apps de delivery enquanto eu estava desempregado, ela também me ajudou como citei acima e quero poder ajudar outras pessoas através dela.
-
-
-## ⭐ Estatísticas Gerais
 <div>
   <a href="https://github.com/glrtlucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glrtlucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
