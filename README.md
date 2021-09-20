@@ -1,4 +1,4 @@
-## 👋 Fala mestre, aqui é o Lucas Goulart. Tudo certo?
+## 👋 Hey there, here is Lucas! How are you doing today?
 
 <div>
   <a href="https://github.com/glrtlucas">
@@ -8,7 +8,7 @@
 <br />
 <br />
   
-## 🌱 Atualmente estou estudando e praticando as seguintes tecnologias:
+## 🌱 Actually I'm learning:
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,11 +20,17 @@
 <br />
 <br />
   
-## 🔍 A gente se vê por aí, obrigado pela visita. Até mais...
+## 🔍 You can reach me on:
   <a href="https://instagram.com/glrtlucas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Lucas Goulart#1678" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:goulartlcs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/glrtlucas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br />
+  <br />
+  <br />
+  <br />
+  <br />
+  That's all folks! See you around...bye, bye
 
 
 
