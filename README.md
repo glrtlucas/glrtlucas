@@ -35,6 +35,7 @@ Recentemente me formei na <a href='https://cubos.academy/' target='_blank'>Cubos
 <br />
 
 ### 📊 Estatísticas técnicas
+<br />
 <div>
   <a href="https://github.com/glrtlucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goulartlcs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
