@@ -1,6 +1,8 @@
 ## Opa, aqui é o Lucas Goulart! 👋
 
-Sou um desenvolvedor em desenvolvimento. Recentemente me formei na <a href='https://cubos.academy/' target='_blank'>Cubos Academy</a>, no curso de Desenvolvimento Web FullStack e de lá pra cá não parei mais, venho fazendo a trilha de ReactJS da RocketSeat para me especializar mais em front-end.
+Sou um desenvolvedor em desenvolvimento 😅
+
+Recentemente me formei na <a href='https://cubos.academy/' target='_blank'>Cubos Academy</a>, no curso de Desenvolvimento Web FullStack e de lá pra cá não parei mais, venho fazendo a trilha de ReactJS da Rocketseat para me especializar mais em front-end.
 <br />
 <br />
 ### ❓ Curiosidades
