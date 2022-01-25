@@ -6,7 +6,7 @@ Recentemente me formei na <a href='https://cubos.academy/' target='_blank'>Cubos
 <br />
 <br />
 ### ❓ Curiosidades
-🤦‍♂️ Já consegui levar multa na última semana de Permissão Para Dirigir, isso fez com que eu tivesse que tirar a CNH de novo<br />
+🤡 Na última semana de Permissão Para Dirigir, consegui levar multa e tive que tirar CNH de novo<br />
 🏍  Motociclismo é uma paixão, principalmente Motocross #braap<br />
 🤓 Troquei o CS:GO pelo JavaScript, estudar programação virou um hobby pra mim<br />
 🎯 Estou em busca do tão sonhado primeiro emprego na área<br />
@@ -15,7 +15,7 @@ Recentemente me formei na <a href='https://cubos.academy/' target='_blank'>Cubos
 <br />
 
 ### 🧰 Tecnologias que uso atualmente
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,7 +35,6 @@ Recentemente me formei na <a href='https://cubos.academy/' target='_blank'>Cubos
 <br />
 
 ### 📊 Estatísticas técnicas
-<br />
 <div>
   <a href="https://github.com/glrtlucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goulartlcs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -44,7 +43,7 @@ Recentemente me formei na <a href='https://cubos.academy/' target='_blank'>Cubos
 <br />
 <br />
   
-## 🔍 Você pode me encontrar aqui
+### 🔍 Você pode me encontrar aqui
   <a href="https://instagram.com/goulartlcs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Lucas Goulart#1678" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucas@goulartlcs.dev"><img src="https://img.shields.io/badge/-Email-c4c4c4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
