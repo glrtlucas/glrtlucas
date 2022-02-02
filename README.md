@@ -28,7 +28,7 @@ Recentemente me formei na <a href='https://cubos.academy/' target='_blank'>Cubos
 <br />
 
 ### 🗃 Últimos Projetos
-* Genius Game - <a href='https://genius.goulartlcs.dev' target='_blank'>Demo</a> | <a href='https://github.com/goulartlcs/dio-eduzz-genius' target='_blank'>Repo</a><br />
+* Ig.news - <a href='https://ignews.goulartlcs.dev' target='_blank'>Demo</a> | <a href='https://github.com/goulartlcs/ignews' target='_blank'>Repo</a><br />
 * dt money - <a href='https://dtmoney.goulartlcs.dev' target='_blank'>Demo</a> | <a href='https://github.com/goulartlcs/dtmoney' target='_blank'>Repo</a><br />
 * Cubos Academy - Gerenciamento de Cobranças - <a href='https://cubos.goulartlcs.dev' target='_blank'>Demo</a> | <a href='https://github.com/goulartlcs/back-payment-manager' target='_blank'>Repo</a><br />
 <br />
