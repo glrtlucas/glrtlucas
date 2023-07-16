@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/-html-white?style=for-the-badge&logo=html5&logoColor=red" alt="HTML 5" />
   <img src="https://img.shields.io/badge/-sass-white?style=for-the-badge&logo=sass&logoColor=pink" alt="SASS" />
   <img src="https://img.shields.io/badge/-css-white?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-React_JS-white?style=for-the-badge&logo=react&logoColor=blue" alt="React JS" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   
   
   
