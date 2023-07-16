@@ -1,11 +1,6 @@
 <div style="background-color: #efefef">
   
-  ### Hello World, I'm Lucas Goulart 🖖
-
-- 🌱 Currently I'm focused to improving my knowings about Angular 2+ and Typescript
-- 💻 I'm front-end developer junior
-- ✅ 2022 Goals: Get my first job as developer
-- 📍 I live in Curitiba, PR 
+  ### Hello World, I'm Lucas Goulart 🖖 
 
 ### Connect with me
 [<img src="https://img.shields.io/badge/-Instagram-white?style=for-the-badge&logo=instagram&logoColor=purple" alt="Instagram" />](https://instagram.com/goulartlcs)
